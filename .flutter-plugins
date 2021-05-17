@@ -1,0 +1,9 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
+firebase_core=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
+firebase_core_web=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+flutter_plugin_android_lifecycle=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+geolocator=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/
+google_api_availability=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/
+google_maps_flutter=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.2.0/
+location_permissions=/Users/leandrorodrigues/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1/
